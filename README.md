@@ -10,3 +10,4 @@ USAGE
 
 Example
 ---
+![ex_screenshot](./django_homework.gif)
